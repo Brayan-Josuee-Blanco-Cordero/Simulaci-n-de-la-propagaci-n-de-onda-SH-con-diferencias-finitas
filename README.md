@@ -1,2 +1,2 @@
-# Simulaci-n-de-la-propagaci-n-de-onda-SH-con-diferencias-finitas
-Python
+# Simulación de la propagación de onda SH con diferencias finitas
+Uno de los principales usos del método de Diferencias Finitas es resolver numéricamente ecuaciones diferenciales, generalmente en derivadas parciales. En el caso del Modelado de la propagación de Ondas, nos enfrentamos a un problema que requiere resolver un sistema hiperbólico de Ecuaciones Diferenciales Parciales. Para ello, se pueden utilizar tres formulaciones diferentes para el mismo problema: formulación de desplazamientos, formulación de velocidad-esfuerzos o formulación desplazamiento-esfuerzos. Para efectos de este trabajo, se considerará la formulación de velocidad-esfuerzos.
